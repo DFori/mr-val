@@ -1,5 +1,5 @@
 {
-  "name": "happy-Valentine",
+  "name": "Valentine Wish",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,20 +14,11 @@
     "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
-  },
   "keywords": [
     "Happy",
-    "Birthday"
+    "Valentine"
   ],
-  "author": "Afiur Rahman Fahim",
-  "modification": "GovindCodes",
+  "author": "Dan Codes",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
-  },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
   "dependencies": {}
 }
